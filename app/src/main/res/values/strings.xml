@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="puzzle">Puzzle</string>
+    <string name="puzzle1">Puzzle</string>
+    <string name="moves">Moves</string>
+    <string name="time">Time</string>
+    <string name="best">Best</string>
+    <string name="_0">0</string>
+    <string name="_0_00">00:00</string>
+    <string name="play">Play Now</string>
+    <string name="info">Info</string>
+    <string name="exit">Exit</string>
+    <string name="info1">  Puzzle 15 o\'yin, 4x4 maydonchadan iborat bo\'lib, uning ichida 15 ta raqamli plitalar va bir bo\'sh joy mavjud. O\'yin o\'z maqsadini plitalarni raqamlar bo\'yicha tartiblash orqali amalga oshiradi.\n\nO\'yinda plitalar tartibini o\'zgartirish uchun bir plitani bo\'sh joyga ko\'chirishimiz kerak. Plitani bo\'sh joyga ko\'chirish uchun uni tugmani yoki yoniga bosishimiz kerak. Agar plita bo\'sh joyning yaqinida bo\'lsa, u bo\'sh joyga o\'tkaziladi. Bunda plitani bo\'sh joyga o\'tkazish bilan plitadagi raqamlar bir o\'rinda almashtiriladi.\n\nO\'yinni yechish uchun plitalarni tartiblangan tartibda joylashtirishimiz kerak. Buning uchun plitalarni o\'ngdan chapga va yuqoridan pastga to\'g\'ri tartibda joylashtirishimiz zarur. O\'yin hal qilinganida plitalar raqamlar bo\'yicha tartiblangan tartibda joylashishi kerak, ya\'ni 1 dan 15 gacha raqamlar plitalarda o\'z o\'rinlariga ega bo\'lishi kerak, bo\'sh joy esa eng ohirgi joyda joylashishi kerak.\n\nO\'yin o\'ynashning asosiy maqsadi plitalarni tartiblash orqali o\'yinni tamomlashishdir. O\'yin ko\'p variantlarda mavjud bo\'lishi mumkin, masalan, 8-lik o\'yin, 24-lik o\'yin, va hokazo. Ularning har birida plitalar soni va maydoncha o\'lchami o\'zgaradi, lekin o\'yin prinsipi va maqsadi o\'zgartirmaydi.\nPuzzle 15 o\'yin yoshlarning va yetkinlarning o\'yinlari orasida mashhur bo\'lib, mantiqiy o\'ylashni rivojlantirish, strategiya yaratish va qo\'zg\'atish qobiliyatini oshirishga yordam beradi.</string>
+    <string name="about_puzzle_15">Puzzle 15</string>
+    <string name="statistics">Statistics</string>
+    <string name="best_moves">Best Moves</string>
+    <string name="best_time">Best Time</string>
+    <string name="top_3_results">Top 3 Results</string>
+    <string name="bestmove1">Moves</string>
+    <string name="time1">Time</string>
+    <string name="you_win">You Win</string>
+    <string name="statistic">Statistic</string>
+    <string name="puzzle_15">"Puzzle 15 "</string>
+</resources>
